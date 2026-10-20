@@ -1,0 +1,30 @@
+{
+  "name": "habit-tracker",
+  "version": "1.0.0",
+  "description": "A simple, colorful daily habit and routine tracker",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayanand-Pandit/Habit-Tracker-web-.git"
+  },
+  "keywords": [
+    "habit",
+    "tracker",
+    "pwa",
+    "productivity"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dayanand-Pandit/Habit-Tracker-web-/issues"
+  },
+  "homepage": "https://github.com/Dayanand-Pandit/Habit-Tracker-web-#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
